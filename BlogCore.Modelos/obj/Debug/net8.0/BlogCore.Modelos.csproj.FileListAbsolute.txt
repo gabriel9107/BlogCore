@@ -9,3 +9,15 @@ C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\B
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\refint\BlogCore.Modelos.dll
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.pdb
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\ref\BlogCore.Modelos.dll
+C:\wip\BlogCore\BlogCore.Modelos\bin\Debug\net8.0\BlogCore.Modelos.deps.json
+C:\wip\BlogCore\BlogCore.Modelos\bin\Debug\net8.0\BlogCore.Modelos.dll
+C:\wip\BlogCore\BlogCore.Modelos\bin\Debug\net8.0\BlogCore.Modelos.pdb
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.AssemblyInfoInputs.cache
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.AssemblyInfo.cs
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.csproj.CoreCompileInputs.cache
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.sourcelink.json
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.dll
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\refint\BlogCore.Modelos.dll
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\BlogCore.Modelos.pdb
+C:\wip\BlogCore\BlogCore.Modelos\obj\Debug\net8.0\ref\BlogCore.Modelos.dll

@@ -1,105 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\",
+  "WorkspaceRootPath": "C:\\wip\\BlogCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\admin\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\admin\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\wwwroot\\js\\categoria.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\irepository\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|c:\\wip\\blogcore\\blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F446DF0B-1CD7-4070-889C-A4DD4A55A9FC}|BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj|solutionrelative:blogcore.accesodatos\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6813284A-2094-4E0C-BF68-E419D981E326}|BlogCore.Modelos\\BlogCore.Modelos.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.modelos\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6813284A-2094-4E0C-BF68-E419D981E326}|BlogCore.Modelos\\BlogCore.Modelos.csproj|c:\\wip\\blogcore\\blogcore.modelos\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6813284A-2094-4E0C-BF68-E419D981E326}|BlogCore.Modelos\\BlogCore.Modelos.csproj|solutionrelative:blogcore.modelos\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\cliente\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\cliente\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\cliente\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EFC38DE-A6E3-4B93-88BC-5FB823C40409}|BlogCore.Utilidades\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore.utilidades\\blogcore.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EFC38DE-A6E3-4B93-88BC-5FB823C40409}|BlogCore.Utilidades\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj|c:\\wip\\blogcore\\blogcore.utilidades\\blogcore.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EFC38DE-A6E3-4B93-88BC-5FB823C40409}|BlogCore.Utilidades\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj|solutionrelative:blogcore.utilidades\\blogcore.utilidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\cursos\\clean architecture\\c#\\blogcore\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|c:\\wip\\blogcore\\blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2AB76E65-7B9B-45A0-AE38-D9B63BCF30B0}|BlogCore\\BlogCore.csproj|solutionrelative:blogcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -110,132 +114,152 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.js",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\wwwroot\\js\\Categoria.js",
-              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\Categoria.js",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\wwwroot\\js\\Categoria.js",
-              "RelativeToolTip": "BlogCore\\wwwroot\\js\\Categoria.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-10T14:27:37.419Z",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T13:15:38.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:12:03.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\Repository.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\Repository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\Repository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:11:36.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:26:05.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Program.cs",
+              "RelativeToolTip": "BlogCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:58:21.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\Categorias\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-10T14:15:30.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\CategoriasController.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\CategoriasController.cs",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\CategoriasController.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\CategoriasController.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\CategoriasController.cs",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\CategoriasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T14:05:40.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContenedorTrabajo.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:56:07.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:17:25.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
               "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
               "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\IRepository\\ICategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:12:03.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T13:12:03.86Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:12:03.065Z",
+              "WhenOpened": "2025-02-10T13:17:25.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:56:07.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "categoria.js",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+              "RelativeDocumentMoniker": "BlogCore\\wwwroot\\js\\categoria.js",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
+              "RelativeToolTip": "BlogCore\\wwwroot\\js\\categoria.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-10T14:27:37.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Repository\\Repository.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Repository\\Repository.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Repository\\Repository.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:11:36.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "00000000000000_CreateIdentitySchema.Designer.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
-              "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
-              "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.Designer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDYAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T14:26:05.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Controllers\\HomeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,11 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeToolTip": "BlogCore.AccesoDatos\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAuwEsAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "BlogCore\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -267,11 +291,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "BlogCore\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -279,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -291,23 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Program.cs",
-              "RelativeDocumentMoniker": "BlogCore\\Program.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Program.cs",
-              "RelativeToolTip": "BlogCore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:58:21.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.Modelos\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.Modelos\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "BlogCore.Modelos\\ErrorViewModel.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.Modelos\\ErrorViewModel.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.Modelos\\ErrorViewModel.cs",
               "RelativeToolTip": "BlogCore.Modelos\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -315,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "BlogCore\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB0AAAAAAAAAAAAIwDMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -327,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -339,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -351,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -363,11 +375,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -375,11 +387,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "BlogCore\\Areas\\Cliente\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -387,11 +399,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
               "RelativeDocumentMoniker": "BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
               "RelativeToolTip": "BlogCore.Utilidades\\BlogCore.Utilidades\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +411,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "BlogCore\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "BlogCore\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -411,11 +423,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\appsettings.json",
+              "DocumentMoniker": "C:\\wip\\BlogCore\\BlogCore\\appsettings.json",
               "RelativeDocumentMoniker": "BlogCore\\appsettings.json",
-              "ToolTip": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore\\appsettings.json",
+              "ToolTip": "C:\\wip\\BlogCore\\BlogCore\\appsettings.json",
               "RelativeToolTip": "BlogCore\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

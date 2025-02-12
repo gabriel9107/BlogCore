@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "usnHwg0OfZU=",
+  "dgSpecHash": "YSfPl0JR0sM=",
   "success": true,
-  "projectFilePath": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
+  "projectFilePath": "C:\\wip\\BlogCore\\BlogCore.AccesoDatos\\BlogCore.AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.montero\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\g.montero\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -17,3 +17,23 @@ C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
 C:\wip\Cursos\Clean Architecture\C#\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.deps.json
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.runtimeconfig.json
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Modelos.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Modelos.pdb
+C:\wip\BlogCore\BlogCore.AccesoDatos\bin\Debug\net8.0\BlogCore.Utilidades.pdb
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.AssemblyReference.cache
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfoInputs.cache
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.AssemblyInfo.cs
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.sourcelink.json
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.77B448E8.Up2Date
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\refint\BlogCore.AccesoDatos.dll
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.pdb
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\BlogCore.AccesoDatos.genruntimeconfig.cache
+C:\wip\BlogCore\BlogCore.AccesoDatos\obj\Debug\net8.0\ref\BlogCore.AccesoDatos.dll

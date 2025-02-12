@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiBG3bxVPao=",
+  "dgSpecHash": "rfXzfNYGm80=",
   "success": true,
-  "projectFilePath": "C:\\wip\\Cursos\\Clean Architecture\\C#\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
+  "projectFilePath": "C:\\wip\\BlogCore\\BlogCore.Utilidades\\BlogCore.Utilidades\\BlogCore.Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
     "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
