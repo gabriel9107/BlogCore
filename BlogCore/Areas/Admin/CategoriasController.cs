@@ -24,6 +24,19 @@ namespace BlogCore.Areas.Admin
         {
             return View();
         }
+
+        [HttpGet]
+        public ActionResult Edit(int id)
+        {
+            Categoria categoria = new Categoria();
+            categoria = _contenedorTrabajo.Categoria.Get(id);
+            if (categoria == null)
+            {
+                return NotFound();  
+            }
+
+            return View(categoria); 
+        }
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Categoria categoria)
