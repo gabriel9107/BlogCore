@@ -1993,7 +1993,7 @@
         },
         "runtime": {
           "BlogCore.AccesoDatos.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2004,7 +2004,7 @@
         },
         "runtime": {
           "BlogCore.Modelos.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -2012,7 +2012,7 @@
       "BlogCore.Utilidades/1.0.0": {
         "runtime": {
           "BlogCore.Utilidades.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

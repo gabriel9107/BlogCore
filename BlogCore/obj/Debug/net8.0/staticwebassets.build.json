@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EwxRtFFJj6BkfGEh6dM6h5Yzo4iTTMnqKT1dgXVHRs4=",
+  "Hash": "z9pvDoGHfZlg/lDF83lKO/wuKecto+Osboei/C34fTY=",
   "Source": "BlogCore",
   "BasePath": "_content/BlogCore",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\Articulos.js",
+      "SourceId": "BlogCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\",
+      "BasePath": "_content/BlogCore",
+      "RelativePath": "js/Articulos#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yr71tqi77u",
+      "Integrity": "Yl1BlnjX15rqHwyB+NDPyxn1qKoRtIOXA44Y9QTc8uQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Articulos.js"
     },
     {
       "Identity": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
@@ -5249,6 +5270,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/Articulos.js",
+      "AssetFile": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\Articulos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yl1BlnjX15rqHwyB+NDPyxn1qKoRtIOXA44Y9QTc8uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 19:10:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yl1BlnjX15rqHwyB+NDPyxn1qKoRtIOXA44Y9QTc8uQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/Articulos.yr71tqi77u.js",
+      "AssetFile": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\Articulos.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yl1BlnjX15rqHwyB+NDPyxn1qKoRtIOXA44Y9QTc8uQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 19 Feb 2025 19:10:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yr71tqi77u"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Articulos.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yl1BlnjX15rqHwyB+NDPyxn1qKoRtIOXA44Y9QTc8uQ="
         }
       ]
     },

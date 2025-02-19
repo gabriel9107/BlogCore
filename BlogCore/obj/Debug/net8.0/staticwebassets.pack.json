@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\Articulos.js",
+      "PackagePath": "staticwebassets\\js\\Articulos.js"
+    },
+    {
       "Id": "C:\\wip\\BlogCore\\BlogCore\\wwwroot\\js\\categoria.js",
       "PackagePath": "staticwebassets\\js\\categoria.js"
     },

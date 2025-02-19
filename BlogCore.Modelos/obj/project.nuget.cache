@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AtjEfLlt2rI=",
+  "dgSpecHash": "DbpAh11dhJE=",
   "success": true,
   "projectFilePath": "C:\\wip\\BlogCore\\BlogCore.Modelos\\BlogCore.Modelos.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\g.montero\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
-    "C:\\Users\\g.montero\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+    "C:\\Users\\g.montero\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
